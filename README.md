@@ -60,7 +60,7 @@
 <tr>
 <td>12</td>
 <td>17 декабря 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/Python_13_Viz_доп.ipynb">Анализ данных и визуализация</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_13_Viz_%D0%B4%D0%BE%D0%BF.ipynb">Анализ данных и визуализация</a></td>
 <tr>
 <td>13</td>
 <td>24 декабря 2022</td>
